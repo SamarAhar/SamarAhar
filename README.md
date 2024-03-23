@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Samar Ahar<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently pursuing MCA <br>- ⚡ In my free time I try new things</p>
 
 ###
 
@@ -66,8 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SamarAhar/SamarAhar/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -77,7 +75,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://samarahar.vercel.app/" alt="Layout with last medium posts"  />
 </div>
 
 ###
