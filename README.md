@@ -1,4 +1,4 @@
-## About me
+###
 
 ```python
 from life import Creativity
@@ -9,12 +9,12 @@ class Life(Creativity):
         self.open_for_opportunity = True
 
     def current_projects(self):
-        self.currently_learning = "MERN Stack & Android 📚"
-        self.currently_working_on = "Flutter 🌱"
-        self.excited_for = "Internt of Things 🌎"
+        self.currently_learning = "MERN Stack 📚"
+        self.currently_working_on = "DevOps 🌱"
+        self.excited_for = "Artificial Intelligence 🌎"
     
     def contact_me(self):
-        self.email = "gauravpandey495@gmail.com"
+        self.email = "samar.ahar.1906@gmail.com"
  
 if '__repo__' == '__helpful__':
     star.it()
@@ -24,7 +24,9 @@ if '__repo__' == '__helpful__':
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/in/samarahar/" target="blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
